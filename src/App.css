@@ -1,0 +1,8 @@
+.product{
+  display: inline-block;
+  margin: 15px;
+  width: 150px;
+  height: 200px;
+}
+
+.product img {}
