@@ -7,7 +7,7 @@ Rename `.env.local.sample` to `.env.local` and replace `{client_id}` and `{secre
 
 
 ## To run
-Run `npm run`
+Run `npm start`
 
 
 ## Thoughts/Discussion
